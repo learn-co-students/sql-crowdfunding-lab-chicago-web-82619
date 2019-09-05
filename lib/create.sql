@@ -18,4 +18,8 @@ CREATE TABLE pledges (
   amount INTEGER,
   user_id INTEGER,
   project_id INTEGER
+<<<<<<< HEAD
 );
+=======
+);
+>>>>>>> a5f62b5e07a9d3ce0b8731de3a571f9ab7088966
